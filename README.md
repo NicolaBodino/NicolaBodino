@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me (but not necessarily the real me)
+
+To be updated soon...
 
 <!--
 **NicolaBodino/NicolaBodino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
